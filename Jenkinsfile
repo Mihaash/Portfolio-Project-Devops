@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        IMAGE = "mickey06/testing"
+        IMAGE = "mickey06/Portfolio"
     }
 
     stages {
